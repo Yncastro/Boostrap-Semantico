@@ -9,45 +9,33 @@ body{
 }
 
 header{
-    background-color: aquamarine;
+    background-color:antiquewhite;
     text-align: center;
 }
 
 nav{
-    background-color: aliceblue;
+    background-color: antiquewhite;
     text-align: center;
 }
 
 section{
-    background-color: rgb(189, 237, 237);
+    background-color: antiquewhite;
+    background-position: center;
 }
 
 article{
     background-color: rgb(179, 165, 145);
-    
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 aside{
-    background-color: rgb(97, 97, 70);
+   background-color: antiquewhite;
     
 }
 
 footer{
-    background-color: rgb(161, 110, 49);
-}
-
-.altura1{
-    height: 10vh;
-}
-
-.altura2{
-    height: 10vh;
-}
-
-.altura3{
-    height: 25vh;
-}
-
-.altura4{
-    height: 10vh;
+    background-color: antiquewhite;
 }
